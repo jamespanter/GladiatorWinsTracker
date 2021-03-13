@@ -1,9 +1,13 @@
 ## Interface: 90005
 ## Title: GladiatorWinsTracker
-## Version: 1.3
+## Version: 1.4
 ## Notes: Track Gladiator wins
-## Author: Dezó-Stormscale
+## Author: Dezopri
 ## SavedVariablesPerCharacter: GWT_HideButton
+## SavedVariables: GWT_LoginIntro
+
+libs\LibStub.lua
+libs\LibSimpleOptions-1.01.lua
 
 GladiatorWinsTracker.lua
 

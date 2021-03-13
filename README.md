@@ -2,21 +2,19 @@
 
 Adds a button to the **rated PVP tab** that tracks the gladiator achievement for the current PVP season. Allowing players to see how many wins they need without having to search wowhead for the script.
 
+![Screenshot of button](https://i.imgur.com/jWtUHvd.png)
+![Screenshot of achievement](https://i.imgur.com/raNnO6m.png)
+
 ### Explanation:
 
 The default Blizzard achievement UI does not provide a way to track this achievement (unless you have already obtained it on another character).
 
 ### Commands:
 
-- **/gwt show** -- shows the button on current character
-- **/gwt hide** -- hides the button on current character
-- **/gwt reset** -- restores default settings on current character
+- **/gwt** -- open the options panel
 
-![Screenshot of button](https://i.imgur.com/jWtUHvd.png)
-![Screenshot of achievement](https://i.imgur.com/raNnO6m.png)
+![Screenshot of options panel](https://i.imgur.com/Q8DsV6p.png)
 
 ##### Note:
 
-- Button defaults to hidden if the character (not account) has **completed** the achievement
-
-_This can be force overridden using the slash commands._
+- Button is hidden if the character (not account) has **completed** the achievement
